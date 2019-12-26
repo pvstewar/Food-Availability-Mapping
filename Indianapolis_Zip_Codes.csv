@@ -1,0 +1,66 @@
+zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,area_codes,world_region,country,latitude,longitude,irs_estimated_population_2015
+46201,STANDARD,0,Indianapolis,,,IN,Marion County,317,NA,US,39.77,-86.11,26410
+46202,STANDARD,0,Indianapolis,,,IN,Marion County,765317,NA,US,39.77,-86.14,11880
+46203,STANDARD,0,Indianapolis,,,IN,Marion County,317,NA,US,39.74,-86.1,33150
+46204,STANDARD,0,Indianapolis,,,IN,Marion County,317765,NA,US,39.77,-86.16,4720
+46205,STANDARD,0,Indianapolis,,Uptown,IN,Marion County,317,NA,US,39.83,-86.13,23730
+46206,PO BOX,0,Indianapolis,,,IN,Marion County,317,NA,US,39.77,-86.14,589
+46207,PO BOX,0,Indianapolis,,,IN,Marion County,317,NA,US,39.77,-86.14,0
+46208,STANDARD,0,Indianapolis,Rocky Ripple,,IN,Marion County,317,NA,US,39.82,-86.17,16610
+46209,UNIQUE,0,Indianapolis,,"Bus Rply, Business Reply",IN,Marion County,317,NA,US,39.77,-86.14,77
+46210,UNIQUE,0,Indianapolis,,Amazon,IN,,,NA,US,39.77,-86.15,0
+46211,UNIQUE,0,Indianapolis,,Time Life Inc,IN,Marion County,317,NA,US,39.77,-86.14,0
+46213,UNIQUE,0,Indianapolis,,WW Grainger Inc,IN,,,NA,US,39.77,-86.15,0
+46214,STANDARD,0,Indianapolis,Eagle Creek,,IN,Marion County,317,NA,US,39.79,-86.29,22310
+46216,STANDARD,0,Indianapolis,,"Ft Benjamin Harrison, Oaklandon",IN,Marion County,317,NA,US,39.87,-86.01,1780
+46217,STANDARD,0,Indianapolis,Southport,,IN,Marion County,317,NA,US,39.67,-86.19,30810
+46218,STANDARD,0,Indianapolis,,,IN,Marion County,317,NA,US,39.81,-86.1,24630
+46219,STANDARD,0,Indianapolis,Warren Park,Irvington,IN,Marion County,317,NA,US,39.78,-86.04,31680
+46220,STANDARD,0,Indianapolis,,,IN,Marion County,317,NA,US,39.87,-86.11,32430
+46221,STANDARD,0,Indianapolis,,West Indianapolis,IN,Marion County,317,NA,US,39.69,-86.24,24830
+46222,STANDARD,0,Indianapolis,,,IN,Marion County,317,NA,US,39.79,-86.22,32930
+46223,UNIQUE,0,Indianapolis,,I U P U I,IN,Marion County,317,NA,US,39.77,-86.14,42
+46224,STANDARD,0,Indianapolis,Speedway,"Spdway, Spdwy",IN,Marion County,317,NA,US,39.8,-86.26,35990
+46225,STANDARD,0,Indianapolis,,,IN,Marion County,317765,NA,US,39.74,-86.16,5530
+46226,STANDARD,0,Indianapolis,Lawrence,,IN,Marion County,317,NA,US,39.84,-86.05,40930
+46227,STANDARD,0,Indianapolis,"Homecroft, Southport",,IN,Marion County,317,NA,US,39.67,-86.13,53680
+46228,STANDARD,0,Indianapolis,"Crows Nest, N Crows Nest, North Crows Nest, Spring Hills, Wynnedale",,IN,Marion County,317,NA,US,39.85,-86.2,14450
+46229,STANDARD,0,Indianapolis,Cumberland,,IN,Marion County,317,NA,US,39.79,-85.98,26220
+46230,PO BOX,0,Indianapolis,,,IN,Marion County,317,NA,US,39.77,-86.14,73
+46231,STANDARD,0,Indianapolis,,,IN,Marion County,317,NA,US,39.72,-86.32,10450
+46234,STANDARD,0,Indianapolis,Clermont,,IN,Marion County,317,NA,US,39.81,-86.33,25700
+46235,STANDARD,0,Indianapolis,Oaklandon,,IN,Marion County,317,NA,US,39.84,-85.97,31100
+46236,STANDARD,0,Indianapolis,Oaklandon,,IN,Marion County,317,NA,US,39.9,-85.97,27040
+46237,STANDARD,0,Indianapolis,Southport,,IN,Marion County,317,NA,US,39.67,-86.07,38960
+46239,STANDARD,0,Indianapolis,Wanamaker,,IN,Marion County,317,NA,US,39.72,-86,28140
+46240,STANDARD,0,Indianapolis,"Nora, Williams Creek, Williams Crk",,IN,Marion County,317,NA,US,39.91,-86.12,19140
+46241,STANDARD,0,Indianapolis,,"Drexel Gardens, Drexel Gdns, Mars Hill, Maywood, Park Fletcher",IN,Marion County,317,NA,US,39.73,-86.29,28890
+46242,PO BOX,0,Indianapolis,,,IN,Marion County,317,NA,US,39.77,-86.14,426
+46244,PO BOX,0,Indianapolis,,,IN,Marion County,317,NA,US,39.77,-86.14,329
+46247,PO BOX,0,Indianapolis,Southport,,IN,Marion County,317,NA,US,39.77,-86.14,254
+46249,UNIQUE,0,Indianapolis,,"Army Finance Center, Army Finance Ctr",IN,Marion County,317,NA,US,39.77,-86.14,222
+46250,STANDARD,0,Indianapolis,Castleton,,IN,Marion County,317,NA,US,39.9,-86.06,18610
+46251,PO BOX,0,Indianapolis,,,IN,Marion County,317,NA,US,39.77,-86.14,68
+46253,PO BOX,0,Indianapolis,Eagle Creek,,IN,Marion County,317,NA,US,39.77,-86.14,636
+46254,STANDARD,0,Indianapolis,Eagle Creek,,IN,Marion County,317,NA,US,39.85,-86.27,39200
+46255,UNIQUE,0,Indianapolis,,"Merchants Bank, National City Bank",IN,Marion County,317,NA,US,39.77,-86.14,63
+46256,STANDARD,0,Indianapolis,Castleton,,IN,Marion County,317,NA,US,39.91,-86.01,21870
+46259,STANDARD,0,Indianapolis,Acton,,IN,Marion County,317,NA,US,39.65,-85.98,12920
+46260,STANDARD,0,Indianapolis,"Meridian Hills, Meridian Hls, Nora",,IN,Marion County,317765,NA,US,39.9,-86.18,32410
+46262,UNIQUE,0,Indianapolis,,Huntington Bank,IN,Marion County,317,NA,US,39.76,-86.15,0
+46266,UNIQUE,0,Indianapolis,,Chase Bank,IN,Marion County,317,NA,US,39.77,-86.14,32
+46268,STANDARD,0,Indianapolis,New Augusta,,IN,Marion County,317765,NA,US,39.9,-86.23,25170
+46274,UNIQUE,0,Indianapolis,Time/life,,IN,Marion County,317,NA,US,39.77,-86.14,0
+46275,UNIQUE,0,Indianapolis,,Time Life Inc,IN,Marion County,317,NA,US,39.77,-86.14,0
+46277,UNIQUE,0,Indianapolis,,Chase Bank,IN,Marion County,317,NA,US,39.77,-86.14,232
+46278,STANDARD,0,Indianapolis,New Augusta,Traders Point,IN,Marion County,317765,NA,US,39.89,-86.3,8610
+46280,STANDARD,0,Indianapolis,Nora,,IN,Hamilton County,317,NA,US,39.93,-86.13,6740
+46282,STANDARD,0,Indianapolis,,,IN,Marion County,317,NA,US,39.77,-86.14,0
+46283,UNIQUE,0,Indianapolis,,Brylane,IN,Marion County,317,NA,US,39.77,-86.14,0
+46285,UNIQUE,0,Indianapolis,,Eli Lilly Co,IN,Marion County,317,NA,US,39.77,-86.14,1026
+46288,UNIQUE,0,Indianapolis,,Shared ZIP Code,IN,,,NA,US,39.77,-86.15,0
+46290,STANDARD,0,Indianapolis,Nora,,IN,Hamilton County,317,NA,US,39.94,-86.16,220
+46291,UNIQUE,0,Indianapolis,,"B M G, Rca Mfg Co",IN,Marion County,317,NA,US,39.77,-86.14,0
+46295,UNIQUE,0,Indianapolis,,Usps Scanner Repair,IN,Marion County,317,NA,US,39.77,-86.14,0
+46296,UNIQUE,0,Indianapolis,,Usps Symbol Repair,IN,Marion County,317,NA,US,39.77,-86.16,0
+46298,UNIQUE,0,Indianapolis,,Greater Indiana District,IN,Marion County,317,NA,US,39.77,-86.14,0
