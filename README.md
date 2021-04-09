@@ -1,6 +1,6 @@
 # Purpose
 
-I created this project for an IBM data science capstone course where we were asked to create a useful data science project with python on and using the Four Square venue application's open data. The project was intended to visualize the geographic distribution of grocery stores in the city of Indianapolis, Indiana.
+I created this project to see if I could get some insights on the concept of "Food Deserts", or areas in a city that have limited access to food sources, using the Four Square venue application's open data. The project was intended to visualize the geographic distribution of grocery stores in the city of Indianapolis, Indiana.
 
 # Contents
 
